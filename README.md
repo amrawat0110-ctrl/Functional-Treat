@@ -43,7 +43,7 @@ Install **Python 3.x**
 Download the project file
 
 ```
-python project 4.py
+functional treat.py
 ```
 
 ### Step 3
@@ -53,7 +53,7 @@ Open Command Prompt or Terminal.
 Run the program
 
 ```bash
-python "python project 4.py"
+python "functional treat.py"
 ```
 
 ---
@@ -81,7 +81,7 @@ Follow the instructions displayed on the screen.
 ```
 Functional-Treat/
 │
-├── python project 4.py
+├──functional treat.py
 ├── README.md
 └── Output Screenshot (Optional)
 ```
